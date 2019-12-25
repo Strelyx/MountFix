@@ -1,0 +1,7 @@
+Mount Fix fixes the problem that occurs when players equip their wings but still have fall damage from using mount.
+
+Version 1.1
+-> Now compatible with "Wing Slot"
+
+Version 1.0
+-> Initialized

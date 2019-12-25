@@ -1,0 +1,5 @@
+displayName = Mount Fix
+author = Strelyx.io
+version = 1.1
+includeSource = true
+buildIgnore = build.txt, .gitattributes, .gitignore, .git/, .vs/, .idea/, bin/, obj/, Properties/, Thumbs.db
